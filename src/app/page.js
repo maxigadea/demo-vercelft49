@@ -6,7 +6,6 @@ export default function Home() {
       <h1 className="text-4xl font-bold text-center">
         {" "}
         Aprendiendo Data Fetching - soyHenry{" "}
-        const first = useContext(second)
         <p>{process.env.NEXT_PUBLIC_ENV_EXAMPLE}</p>
       </h1>
       <nav className="flex gap-3 text-xl">
